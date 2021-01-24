@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Cihat
 
-## Software Developer, Student, Coffee Gourmet and Music
+## Software Developer, Student, Coffee Gourmet and Reader
 
 Here are some ideas to get you started:
 
