@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-* 🔭 I'm currently working on Angular
+* 🔭 I'm currently working on Net Core Web API
 
 * 🌱 I’m currently learning Angular, RabbitMQ, Xamarin
 
