@@ -4,13 +4,13 @@
 
 Here are some ideas to get you started:
 
-* 🔭 I'm currently working on Net Core Web API
+* 🔭 I'm currently working on Net 6 MVC & API
 
-* 🌱 I’m currently learning Angular, Unit Test, IdentityServer4
+* 🌱 I’m currently learning Angular, Vue, Microservice
 
-* 📝 I regularly write articles on https://medium.com/@cihatsolak
+* 📝 I regularly write articles on [Medium](https://cihatsolak.medium.com/)
 
-* 💬 Ask me about Net Core, Xamarin, AngularJS, Net Core
+* 💬 Ask me about Net 3.1/5/6, Xamarin, Angular
 
 * 📫 How to reach me cihatsolak@hotmail.com
 
