@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 * 🔭 I'm currently working on Net 6 MVC & API
 
-* 🌱 I’m currently learning Angular, Vue, Microservice
+* 🌱 I’m currently learning Net 7, Angular, Vue, Microservice
 
 * 📝 I regularly write articles on [Medium](https://cihatsolak.medium.com/)
 
