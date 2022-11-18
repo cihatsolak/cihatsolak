@@ -6,11 +6,11 @@ Here are some ideas to get you started:
 
 * 🔭 I'm currently working on Net 6 MVC & API
 
-* 🌱 I’m currently learning Net 7, Angular, React, Microservice
+* 🌱 I’m currently learning Net 7, Angular 14, NextJS, Microservice
 
 * 📝 I regularly write articles on [Medium](https://cihatsolak.medium.com/)
 
-* 💬 Ask me about Net 3.1/5/6, Xamarin, Angular
+* 💬 Ask me about Net 3.1/5/6, React, Angular
 
 * 📫 How to reach me cihatsolak@hotmail.com
 
