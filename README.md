@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-* 🔭 I'm currently working on Net 6 MVC & API
+* 🔭 I'm currently working on Net 7 MVC & API
 
-* 🌱 I’m currently learning Net 7, Angular 14, NextJS, Microservice
+* 🌱 I’m currently learning Design patterns, Angular 15, NextJS, Microservice
 
 * 📝 I regularly write articles on [Medium](https://cihatsolak.medium.com/)
 
