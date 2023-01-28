@@ -1,5 +1,3 @@
-# Hi there 👋 I'm Cihat
-
 ## Software Developer, Student and Coffee Gourmet
 
 Here are some ideas to get you started:
