@@ -1,4 +1,4 @@
-## Software Developer, Student and Coffee Gourmet
+## Software Developer and Student
 
 Here are some ideas to get you started:
 
