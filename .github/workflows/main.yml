@@ -7,7 +7,7 @@ on:
     - cron: "0 */6 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
-workflow_dispatch:
+  workflow_dispatch:
 
 # The sequence of runs in this workflow:
 jobs:
@@ -45,7 +45,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: master
           force: true
 
       # Deploy the generated snake to GitHub Pages
