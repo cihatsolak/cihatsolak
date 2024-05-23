@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-* 🔭 I'm currently working on Net 8 MVC & API
+* 🔭 I'm currently working on Net 9 MVC & API
 
 * 🌱 I’m currently learning Design patterns, Elastic Search, NextJS, Microservice
 
