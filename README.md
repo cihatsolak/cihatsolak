@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 * 📝 I regularly write articles on [Medium](https://cihatsolak.medium.com/)
 
-* 💬 Ask me about Net 3.1/5/6/7, React, Angular
+* 💬 Ask me about Net 3.1/5/6/7/8, React, Angular
 
 * 📫 How to reach me cihatsolak@hotmail.com
 
