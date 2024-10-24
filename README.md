@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 * 🔭 I'm currently working on Net 9 MVC & API
 
-* 🌱 I’m currently learning Design patterns, Elastic Search, NextJS, Microservice
+* 🌱 I’m currently learning Keycloack, Elastic Search, NextJS, Microservice
 
 * 📝 I regularly write articles on [Medium](https://cihatsolak.medium.com/)
 
